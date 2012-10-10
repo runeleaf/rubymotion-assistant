@@ -1,5 +1,5 @@
 Gem::Specification.new do |gem|
-  gem.name  = 'motion-assistant'
+  gem.name  = 'rubymotion-assistant'
   gem.version = '0.1'
 
   gem.authors = ['runeleaf']
